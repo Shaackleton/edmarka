@@ -1,0 +1,22 @@
+{
+  "name": "edmarka",
+  "version": "1.0.0",
+  "description": "a placeholder for my project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaackleton/edmarka.git"
+  },
+  "keywords": [
+    "edmarka"
+  ],
+  "author": "James Shackleton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaackleton/edmarka/issues"
+  },
+  "homepage": "https://github.com/Shaackleton/edmarka#readme"
+}
